@@ -1,4 +1,4 @@
-# sockettest
+# egoChat
 
 ## Project setup
 ```
